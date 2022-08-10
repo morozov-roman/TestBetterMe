@@ -11,7 +11,7 @@
 pip install sqlite3
 pip install csv
 pip install hashlib
-pip install pandas as pd
+pip install pandas
 pip install requests
 ```
 

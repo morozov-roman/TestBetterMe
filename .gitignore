@@ -3,5 +3,4 @@ __pycache__
 test.py
 venv/
 report.csv
-BetterMe.twbx
-Book1.twbx
+.gitirnore
