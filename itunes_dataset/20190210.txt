@@ -1,0 +1,993 @@
+Event Date	App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Subscription Duration	Introductory Price Type	Introductory Price Duration	Marketing Opt-In Duration	Customer Price	Customer Currency	Developer Proceeds	Proceeds Currency	Preserved Pricing	Proceeds Reason	Client	Device	Country	Subscriber ID	Subscriber ID Reset	Refund	Purchase Date	Units
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	VND	0	VND	 	 	 	iPhone	VN	784213655201503				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	770221753057465				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	693233625473209				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	665274414686569				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	AR	637216725182641				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	630291562651263				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				6500	CLP	4550	CLP	 	 	 	iPhone	CL	616276856221182				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CHF	0	CHF	 	 	 	iPhone	CH	616284248767077				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NZD	0	NZD	 	 	 	iPhone	NZ	616271143731119				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	COP	0	COP	 	 	 	iPhone	CO	560323166173339				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	weekly subscription, v.1.1.1, 4.99	1417886138	20461416	7 Days				17.9	ILS	12.53	ILS	 	 	 	iPhone	IL	546254373992168				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	539233787959036				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	511289827843125				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	469345151149800				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	462357492900025				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month	Free Trial	3 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	462357476308793				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	455313047365955				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	427353272942605				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	224370195567821				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	ILS	0	ILS	 	 	 	iPhone	IL	217261850721869				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	210343060038127				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213725915083				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777251978508259				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	700236111855765				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	679229505706383	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	644279255996994				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	644279250150818				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	595308459237704				1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	574277521444069				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	273336199186850				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217345932520362				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	217345850767978				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368894467797				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	189368727531349				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	665277267370753				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-69.99	CAD	48.99	CAD	 	 	 	iPhone	CA	637204874261104		Yes	2019-01-31	1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	567317360077456				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	NL	567319147655276				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	560341023105691				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NZD	0	NZD	 	 	 	iPhone	NZ	497196391162725				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	476264133991032				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	476236646772973				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	434353371145542				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				55.99	EUR	32.39	EUR	 	 	 	iPhone	ES	273364518988465				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	210343191598213				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	189368245876588				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	777252058791161				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777252005280473				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	665277269230597				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				174.99	TRY	103.81	TRY	 	 	 	iPhone	TR	637183877492598				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	616284441267735	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	609277008787589				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	574321911014763				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	AR	693233622960160				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368821727801				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368743590105				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	490263716768191	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	518203811815867				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	686212565760388				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	679229579970188				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	252347792693964				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	665275983309506				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	644276780899740				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	224352629347457				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	LT	217338420453436				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	455307051680903				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month	Free Trial	3 Days		0	VND	0	VND	 	 	 	iPhone	VN	567319115317425				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	539233829750891				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	539233805920651				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	NL	518204767084664				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	623289538484769				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	NL	483271471687223				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344298678663				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				147.9	ILS	103.53	ILS	 	 	 	iPhone	IL	476224043749260				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-91.99	NZD	55.99	NZD	 	 	 	iPhone	NZ	791195065272740		Yes	2018-12-27	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	784213720031527				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	LV	224348686651854				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				68	CNY	46.65	CNY	 	 	 	iPad	CN	224345475935492				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	217345946211704				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	217345887998136				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	693233607376417				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	427351925206747				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-69.99	CAD	48.99	CAD	 	 	 	iPhone	CA	609281966144154		Yes	2019-02-04	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	441339644689442				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	HKD	0	HKD	 	 	 	iPhone	HK	273366707024616				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259361821117576				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	595328779110739				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	252347811644861				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	UA	252347805859613				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	217260509499861				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	791199142501091				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	777245415363167				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	567319042061935				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	665277320401346	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	UA	560342391883591				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216775285064				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	630291477727830				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	623289548990481				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609285035122675				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	AM	560342335732951				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	553184837794101				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				10.5	CHF	6.82	CHF	 	 	 	iPhone	CH	189359914988512				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	532285392399175				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				142.9	BRL	100.03	BRL	 	 	 	iPhone	BR	539198618851748				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	532284603469614		Yes	2019-02-06	1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	525293434305859				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	518204858243718				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	511289893277900				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	511289867685452				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369277318307				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	504328959724823				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	504334045928981				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490226920748434				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	483271482305929				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	469343770211570				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	469345091888864				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362683462192				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	224370266040356	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				789	INR	468.05	INR	 	 	 	iPhone	IN	196295080385126				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	476264097151579				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	161331735848894				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	679229523697776				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216761466378				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	630291543613300				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	KW	630291459649588				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	217345921540211				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	189319866242243				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	189360118849281				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NOK	0	NOK	 	 	 	iPhone	NO	770221791063398	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	RUB	0	RUB	 	 	 	iPhone	RU	658234895832313				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	BRL	0	BRL	 	 	 	iPhone	BR	623289520912487				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	595321227213904				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	539233811157491				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	539233790417779				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	525293398474532				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	AED	0	AED	 	 	 	iPhone	AE	511289799403546				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				10.49	EUR	6.12	EUR	 	 	 	iPhone	AT	490256356352541				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	441318068484505				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	434347674016174				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362715766086				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	RUB	0	RUB	 	 	 	iPhone	RU	245310792648931				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	224370190928466				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	weekly subscription, 2.99	1435774358	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	217310741318449				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	196349112758857				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	161362861548443				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	161361008004912		Yes	2019-02-09	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	SV	784206957610855				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SEK	0	SEK	 	 	 	iPhone	SE	777251924538651				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	NL	693233602596565				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	DO	658217125515616				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	595328728365030	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	560342302464562				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	COP	0	COP	 	 	 	iPhone	CO	546260682352646				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	LV	490263757012437				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SAR	0	SAR	 	 	 	iPhone	SA	469345058741876				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	455304158432258				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CHF	0	CHF	 	 	 	iPhone	CH	259362642749877				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPad	US	252346482224286				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	245274001462989				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	210343203045411				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	700173127906779				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IE	700236117327133				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	ES	665277143486839				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	595328779615222				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	581303151370328				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				4399	INR	2609.58	INR	 	 	 	iPhone	IN	483270082149087				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	462322379511617				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	455313059821951	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	441339738767048				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	434344346752633				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	427353309750257				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	weekly subscription, 2.99	1435774358	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	259332397840252				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	252347827519622				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				7.99	GBP	4.66	GBP	 	 	 	iPhone	GB	252307233436400				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	686157281872617				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	665270232007278				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	553184823758317				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	546260565951515				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	497248183201625				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	469345149842249				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NOK	0	NOK	 	 	 	iPhone	NO	462357437588664				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				209.99	AED	139.99	AED	 	 	 	iPhone	AE	455311734497797				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420356589740040				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362740404056				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	238348699479445				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				199	MXN	139.3	MXN	 	 	 	iPhone	MX	217336471875973				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	HKD	0	HKD	 	 	 	iPhone	HK	210343109838542				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	791203503168129				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	784213674801881				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	658228532565858				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month	Free Trial	3 Days		0	EGP	0	EGP	 	 	 	iPhone	EG	658234803376369				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	651256561971164				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216793633702				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				37.99	AED	25.33	AED	 	 	 	iPhone	AE	630283486656462				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	525248650847811				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				789	INR	468.05	INR	 	 	 	iPhone	IN	511288848008199				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	490258329548535		Yes	2019-02-07	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	469345180506799				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	469345075673679	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420358809414329				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, no trial.	1451585186	20449027	7 Days				8.99	GBP	5.24	GBP	 	 	 	iPhone	GB	420369194370386				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	IS	266336660012278				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	203346028338084				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	161362939193171				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	672230692452426				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	672230586878314				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	SK	658234882729384				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				13.48	SGD	9.44	SGD	 	 	 	iPhone	SG	658222602695548				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	651257119723184				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	609284967793700				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	588323942695722				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	567319240755416				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	532251773649444				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	504334126324562				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	490255679823177				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				1009	MXN	706.3	MXN	 	 	 	iPhone	MX	469334966099743				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				10.5	CHF	6.82	CHF	 	 	 	iPhone	CH	455305644970549				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	420369220564155				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	266334807951543		Yes	2019-02-10	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	266334807951543				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	PT	217315848419868				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203354591405814				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CHF	0	CHF	 	 	 	iPhone	CH	154344263271424				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	777252065120421				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	672230669975734				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	672230643567926				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	644255721300417				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	532286865801329				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	525293458594473				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	511255123103153				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AED	0	AED	 	 	 	iPhone	AE	469345113164090				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	462357532456619				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369259098679				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368881567987				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	665277270628175				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	658234898449410				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SGD	0	SGD	 	 	 	iPhone	SG	623289442791724	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CNY	0	CNY	 	 	 	iPhone	CN	609284919559822				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	BE	553184820282152				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	546241920756597				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	RON	0	RON	 	 	 	iPhone	RO	546260569140414				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	532286708374087	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490263722009693				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	483271464701013				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	455313073984967	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				269	CZK	155.62	CZK	 	 	 	iPad	CZ	245310849037480				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	224370270828937				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	ES	679229584844106				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	672216540979839				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	BE	665277259266650				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SGD	0	SGD	 	 	 	iPhone	SG	665260755456096				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	DO	574321878567460	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	PEN	0	PEN	 	 	 	iPhone	PE	525293443331722				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AED	0	AED	 	 	 	iPhone	AE	511289856679604				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	490263771970184				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	490224217038187				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	469288468308508				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-50.99	GBP	29.74	GBP	 	 	 	iPhone	GB	469342263194737		Yes	2019-02-04	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	462350072058492				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	420321844461437				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	273366852318254				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CHF	0	CHF	 	 	 	iPhone	CH	259362672110600	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	245310890893574				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217345913677839				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	210318105549253				1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				39.99	SAR	26.66	SAR	 	 	 	iPad	SA	616276806727878				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609285017045553				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				-9.99	USD	7	USD	 	 	 	iPhone	US	609276181375031		Yes	2019-01-02	1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	588330849564544				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	525278031454486				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	GH	483271345305226				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	483271280193578				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	469345188137331	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	266336749756058				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	252347833589553				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	238348706009871				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	AM	217345868354085				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	196356046586331				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	182337901111872				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	686212589506012				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	686212545459996				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	588330944597412				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				204.9	BRL	143.43	BRL	 	 	 	iPhone	BR	574320413954744				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	560342516435697				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				519	PHP	363.3	PHP	 	 	 	iPhone	PH	483218430971509				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	476264196198541				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	252302190982886				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	GR	245310813806515				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	784213718356329				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	EE	784213695734345				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				9.99	USD	7	USD	 	 	 	iPhone	US	770221814889711				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	658234932495856				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-69.99	CAD	48.99	CAD	 	 	 	iPhone	CA	630285451050691		Yes	2019-01-22	1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	623281924666375				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	588324412688644				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	567319199753056				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				849	INR	503.64	INR	 	 	 	iPhone	IN	539233642868650				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				48.99	TRY	29.06	TRY	 	 	 	iPhone	TR	511266578235093				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	476256761995352				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	469345191070142				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				839.99	ZAR	511.3	ZAR	 	 	 	iPhone	ZA	455311728315040				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	RON	0	RON	 	 	 	iPhone	RO	448377840108382				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	441328392141254				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	434348111414121				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription v1.0, 41.99	1399466229	20461416	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	266291704402187				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	700236158375217				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	686212599233555				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	616247887660764				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	602293611175090				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	567319179258470				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	539233720433676	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	532286784666835				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	504334112008701				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	490237723027383				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	427353193070589				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				10.49	EUR	6.17	EUR	 	 	 	iPhone	DE	427334558649434				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369192335381				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	196356163886304				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216801021908				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	609284953178687				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	581303085409713				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	553184860058105				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	504334148047256	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	HUF	0	HUF	 	 	 	iPhone	HU	420369201205088				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	259348029581440				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	252347863262399				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				819	INR	485.85	INR	 	 	 	iPhone	IN	196307636871460				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189300491337337				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368830872580	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	161362946601985				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	154343069934909				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	497255897808483				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490263781280450	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	644279256688923				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490263776244930	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490235699023142				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				2850	RUB	1662.5	RUB	 	 	 	iPhone	RU	497216399266470				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	441331246234629				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344304112511				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	588330952672934				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				19.99	BGN	11.66	BGN	 	 	 	iPhone	BG	609204530969078				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	455313071126888				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	GH	574320356329631				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				8.99	GBP	5.24	GBP	 	 	 	iPhone	GB	203345854500602				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	EC	189321152824974				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	679229585281312				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	791182421836627				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	770196307018252				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	511289902535176				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	693233653068721				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609285016086546	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				204.9	BRL	143.43	BRL	 	 	 	iPhone	BR	609283584816006				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	266336747171882				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				33.99	EUR	19.5	EUR	 	 	 	iPhone	IT	259315015255291				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	DKK	0	DKK	 	 	 	iPhone	DK	567313708750686				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				142.9	BRL	100.03	BRL	 	 	 	iPhone	BR	532246002013721				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	490263736267825				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				749	RUB	436.92	RUB	 	 	 	iPhone	RU	469318468516739				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	462357487483985				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				329.99	TRY	195.76	TRY	 	 	 	iPhone	TR	245286230347090				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				1089	MXN	762.3	MXN	 	 	 	iPhone	MX	560340980485421				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				14.99	AUD	9.54	AUD	 	 	 	iPhone	AU	238347880799086				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	LB	224361035389514				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	245293993411805				1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				819	INR	485.85	INR	 	 	 	iPhone	IN	238302313461585				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	546222441484680				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				12.99	CAD	9.09	CAD	 	 	 	iPhone	CA	189336993946774				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	539233814789623				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	161362946526693				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	679229595397446				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	189368832494368				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	672230634897817				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				9.99	USD	7	USD	 	 	 	iPhone	US	532286852245640				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	630291548847970				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	679210851932412				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	595328809574487				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	588330957382870				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216781144442				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	546253934248325				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	651257127151101				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				9.99	USD	7	USD	 	 	 	iPhone	MZ	651257067051453				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	770221784632596				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SEK	0	SEK	 	 	 	iPhone	SE	511289836379128				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	630291516070876				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	770221771421762				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	504334006344688	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	511289825940574				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	LV	511289802596862				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	616247887660764				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609266531717594				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609284974679593				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	441339638212601				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	266336686866658				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				13.49	AUD	8.58	AUD	 	 	 	iPhone	AU	483229054919431				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	462357515270716	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	189368832908642				1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	441330659528173				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	SV	441339725816817				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	182337893023960				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				37.99	AED	25.33	AED	 	 	 	iPhone	AE	182300271999841				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	161362837603655				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344223264989				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	791203528147909				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213712484253				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	525293431395861				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	weekly subscription, v.1.1.1, 4.99	1417886138	20461416	7 Days				4.99	USD	3.5	USD	 	 	 	iPhone	US	693228696768085				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490263789012279				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	672230646584422				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	259362626492412				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	630249968903865				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	686212542863766				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	616284410200699				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	686206563992077		Yes	2019-02-09	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	224370204048328				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	679228155424513		Yes	2019-02-08	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	273365179305976				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	665277262043214				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	SGD	0	SGD	 	 	 	iPhone	SG	665244254754466				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	511289849487671				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490263797202811				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	ILS	0	ILS	 	 	 	iPhone	IL	560342433637744				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	BE	546260508598436				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	weekly subscription, v.1.1.1, 4.99	1417886138	20461416	7 Days				4.99	USD	3.5	USD	 	 	 	iPhone	US	462334181072388				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPad	US	448381770585632	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	630291472575802	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	420369125884199				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	GR	217318997429648				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	539229299767195				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609285001933743				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				204.9	BRL	143.43	BRL	 	 	 	iPhone	BR	609257621018412				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	644279175225653				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	161362874315659				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	238310646550622				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	LV	686208875097755				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	616284463130506				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	616284412916202				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	462357476314743				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	588330975813912				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321938217232				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	581303153693719	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	567301982056392				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	567274238762590				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	532286864399929				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	518204843992341	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	539233806830777				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	518204815993020				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	HRK	0	HRK	 	 	 	iPhone	HR	518204814579356				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				759	MXN	531.3	MXN	 	 	 	iPhone	MX	504289444237875				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				152.99	QAR	107.09	QAR	 	 	 	iPhone	QA	448308146100005				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	532279597921136				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	434353302120278				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369237599551				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	273366871945253				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	273366827810981				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	504334066805123				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	196356116808462				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	210332962421381				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	210343173325077				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	ES	210343140845749				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203354514146674				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	203354469834322				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	196356133869786				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	441311075579845				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	182299785752072				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	784213658067576				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				60.99	TRY	36.18	TRY	 	 	 	iPhone	TR	532286772728685				1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				10.49	EUR	6.07	EUR	 	 	 	iPhone	NL	273357895217192				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	679229591343452				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	672224041584846				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	BE	679219435361504				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362693061005				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	161362905207198				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	252347888787262				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	623289545105992				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				56.99	EUR	32.7	EUR	 	 	 	iPhone	IT	252346367280891				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	616284466114585				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	238348775836656				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	595328832457466				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	THB	0	THB	 	 	 	iPhone	TH	238348612224816				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	588310529702086				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217345895315082				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	602293762881820				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	AR	455313107878505				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	ES	539233798185532				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	RUB	0	RUB	 	 	 	iPhone	RU	532286753161123				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	AED	0	AED	 	 	 	iPhone	AE	518204784404687				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NOK	0	NOK	 	 	 	iPhone	NO	448381760954584				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	182337819660159				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	476264178978338				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				29.99	GBP	17.49	GBP	 	 	 	iPhone	GB	637183330936035				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	154307164052554				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	448374040133329				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	784213694643605				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213660730453	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	777245643666956		Yes	2019-02-09	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	BRL	0	BRL	 	 	 	iPhone	BR	266336741079649				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	266335094622676				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362704996383				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	224370105748749				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217345861744734				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	203354508886328				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	658234954133500	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368860848001	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362705829299				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344313067086				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	AR	630257151734884				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	595328741942468				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				1089	MXN	762.3	MXN	 	 	 	iPhone	MX	700235088866924				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				10.49	EUR	6.02	EUR	 	 	 	iPhone	IT	700235680584435				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	672230553801200				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	245280243091683				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	616284395947859				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216765701861				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	623289561525052				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	weekly subscription, v.1.1.1, 4.99	1417886138	20461416	7 Days				4.99	USD	3.5	USD	 	 	 	iPhone	US	595318240396714				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	616284447783405				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	588330950120321				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	weekly subscription, v.1.1.1, 4.99	1417886138	20461416	7 Days				4.99	USD	3.5	USD	 	 	 	iPhone	US	595323060972565				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	UA	588330904601183				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321970653167				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	BRL	0	BRL	 	 	 	iPhone	BR	574321855199087				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	574320407688323				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	IS	217345855193252				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	560342487608122				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	560342486607962				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	PY	532204998665510				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	546260657783136				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	546260602469472				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	588330965530149				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				115	SEK	64.4	SEK	 	 	 	iPhone	SE	483263917017198				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	476264193433142				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	518204870379429				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609284993610260				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609284987698676				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	455313020744535				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	434353461381800				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	560340992040216				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				12.99	CAD	9.09	CAD	 	 	 	iPhone	CA	525285385037751				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	497255945323734				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	497255939267446				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	476262204193008				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	434353466599362				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	252347802339796				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				249	INR	147.71	INR	 	 	 	iPhone	IN	217345137726131				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	161362915375930				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213686371418				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	PEN	0	PEN	 	 	 	iPhone	PE	770221805614396				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	770221774586364				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	693233596331964				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	686210082269595				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	595328695976639				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	546248414420907				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-209.99	AED	139.99	AED	 	 	 	iPhone	AE	504322621332014		Yes	2019-01-06	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	469345129266701	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	455313083647158				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369226291184				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	BRL	0	BRL	 	 	 	iPhone	BR	252347855845150				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203354617312093				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213707149196				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	BRL	0	BRL	 	 	 	iPhone	BR	777252049834164				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	665277144554136				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	567308180557988				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	448381812921793				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	448381791609089				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	420368648758207				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	273366878075468				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	GR	266336702969794				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	266336638443234				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	203325223256143				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777252029251861				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	770221810580763				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	651250148028538				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	637216783717971				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	602293689181312				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	588330951042025				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321922074567				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	560342477892780				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	560342461687724				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	553184854035214				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	532245995542151				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				4.49	AUD	2.86	AUD	 	 	 	iPhone	AU	532275834156005				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CHF	0	CHF	 	 	 	iPhone	CH	532286680528129				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	490263181925582				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	476264120199744				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	441328208413500				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	weekly subscription, 2.99	1435774358	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	182313930387185				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	700236122370843				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				10.49	EUR	6.12	EUR	 	 	 	iPhone	AT	623280970652230				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609285039259136				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	588330895177713				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321957241503				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	JO	574276346758823				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	560342431919300				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	553184848569222				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	546260560205488				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	HRK	0	HRK	 	 	 	iPhone	HR	518204858070069				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AED	0	AED	 	 	 	iPhone	AE	483249440205947				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				9.99	USD	7	USD	 	 	 	iPhone	US	469345197431714				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				209.99	AED	139.99	AED	 	 	 	iPhone	AE	224335815579052				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				2.79	GBP	1.63	GBP	 	 	 	iPhone	GB	217321588296962				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	LB	217340102655748		Yes	2019-01-25	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213703443704				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	693233654925310				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	686212566081716				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	BY	686212554643156				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	672230642368147				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	672230617215859				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				10.49	EUR	6.07	EUR	 	 	 	iPhone	ES	161362890121701				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-80.99	AUD	51.54	AUD	 	 	 	iPhone	AU	161353753427764		Yes	2019-02-07	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154301675480164				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	GT	154344225136831				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	791203546287660				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	791173729962023				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213734301636				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	623268474657593				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	588330944406928	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	588328998177804				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	567310650668995				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	546259712779286				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	483231121622552				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				7.99	GBP	4.66	GBP	 	 	 	iPhone	GB	448335674399293				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	434349776044144		Yes	2019-02-02	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	427353272622614				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	273366849737284				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPad	US	266336739786826				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	259362668928610				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	791203527847098				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	791203517750522				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	791203493013754				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	ILS	0	ILS	 	 	 	iPhone	IL	651257081865539				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	NA	637194334450123				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	602293752413327	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	567319193039867				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	DKK	0	DKK	 	 	 	iPhone	DK	518204887221954				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SEK	0	SEK	 	 	 	iPhone	SE	455313012600126				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	427353274305120				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369278367768				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPad	CA	259362672267316				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	224370290032800				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	PLN	0	PLN	 	 	 	iPhone	PL	224370149616160				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203354632144869				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203354611339077				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				819	INR	485.85	INR	 	 	 	iPhone	IN	196295080385126				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777252035005924				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	700236170473394				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				8.99	EUR	5.24	EUR	 	 	 	iPhone	EE	686212052216469				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	679229475807640				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	RON	0	RON	 	 	 	iPhone	RO	560342425093005				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	532286854689200				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	441339723943127				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	266331929122254				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	RUB	0	RUB	 	 	 	iPhone	RU	259362546916986				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				49.99	GBP	29.16	GBP	 	 	 	iPhone	GB	196329311686062				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	189368662667634				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NOK	0	NOK	 	 	 	iPhone	NO	777251978558015				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	NL	679229564516659				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	AT	644279148702478				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	616284427082865				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321812519149				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				19490	HUF	10743	HUF	 	 	 	iPhone	HU	574320303879723				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	567319179900398				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	560334826878136				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	539198627819630				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NOK	0	NOK	 	 	 	iPhone	NO	525293395343411				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	441339669911548				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IE	259362686978033				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				4399	INR	2609.58	INR	 	 	 	iPhone	IN	259360995530737				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	BGN	0	BGN	 	 	 	iPhone	BG	224370165695909				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217345900771526				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217345874533958				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	161362754238940	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777252053909914				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777252046634394				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777252006584314				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	679198642974763				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	658234981410715				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	658234955524379				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	651257056297171				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	567285098896469				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	560334469520891				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	560342385902371				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPad	US	553184855894561				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490263787548964				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	weekly subscription, v.1.1.1, 4.99	1417886138	20461416	7 Days				4.49	GBP	2.62	GBP	 	 	 	iPhone	GB	476221856033366				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	455313112978894				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	448381841449887				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	448381837808767				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				2850	RUB	1662.5	RUB	 	 	 	iPhone	RU	448334691468694				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	weekly subscription, 2.99	1435774358	20449027	7 Days				2.79	GBP	1.63	GBP	 	 	 	iPhone	GB	441305875764980				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription v1.0, 41.99	1399466229	20461416	6 Months				41.99	USD	29.4	USD	 	 	 	iPad	AR	588329649050341				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	497255817384762				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FI	490263707932203				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	476264182222768				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	ZAR	0	ZAR	 	 	 	iPhone	ZA	462357373107947				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362715657117				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	448381793508784	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	AR	539233750506299				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	420354362272889				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	483271487321478				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	448381702015221				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	441339735536723				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	273366906201048				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	JO	448335672536530				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	259361079941903				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368844194070				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AED	0	AED	 	 	 	iPhone	AE	791203412599833	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	weekly subscription, 2.99	1435774358	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	686194047489190				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344245603900				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	686212493271517				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	672211131051693				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	791201911595167		Yes	2019-02-07	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	616276262585433				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344296467146				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	252347780902779				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	595328772235668				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month	Free Trial	3 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	679229541738015				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213677089390				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	DKK	0	DKK	 	 	 	iPhone	DK	224370110365564	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	560342465713536				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	553184860340226				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	539233668633746				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	518204890788209				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	504254099775666				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	700236174589408				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	427353292001596				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	BRL	0	BRL	 	 	 	iPhone	BR	476264156233868				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609285036344238				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	455313027400317				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	434353436628722				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	252347817537636				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	HKD	0	HKD	 	 	 	iPhone	HK	196356069539870				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	189368869520511				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	644279235274999				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	182337858992725				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	532286797638087				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	518173751639301				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	777228317314794				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPad	US	770200159980351				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	770215395772825				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	686212564327761				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	665277322482642				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	497236376274927				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	623246694184949				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	483271395736432				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	651250996009616				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	ZAR	0	ZAR	 	 	 	iPhone	ZA	616284432569416				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	602293808443056				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	DO	602251622464788				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	560340889582280				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				8.99	GBP	5.24	GBP	 	 	 	iPhone	GB	217345834134319				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	539233831936270				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	595250659708168				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	497254371729376				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	497254371729376		Yes	2019-02-10	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	616265745124199				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	616284397195154	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	238348764959412				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FR	609262047325654				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	ES	238348684102132				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	448373930264591				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	581303162589823				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369257824224				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369257483968				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	434353454040970				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	420369293345171				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420369200128096				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	532257977251457				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	COP	0	COP	 	 	 	iPhone	CO	259362703720143				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362698365871				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203318162625888				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	MT	196356117141760				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	266336538632922				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	203305945249290				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	245310820493111				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				33.99	EUR	19.99	EUR	 	 	 	iPhone	CY	224317919205417				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	224335119801452				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	224370100003366				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	210343217771108				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	182337892176477				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	161362721532980				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	161362842070642				1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	weekly subscription, v.1.1.1, 4.99	1417886138	20461416	7 Days				6.49	CAD	4.54	CAD	 	 	 	iPhone	CA	266324229711381				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344317620341				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	154344308814005				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	HRK	0	HRK	 	 	 	iPhone	HR	154344216007480				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	777251912760199				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	266301129899926				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	770221814356521				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	weekly subscription, 2.99	1435774358	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	693215877602754				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	686180114037490				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	CR	644279232591878				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	574320471902235				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	532286852713884				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	EC	525293403998708				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	616284452819177				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	511289848519620				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	504334067532066				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NZD	0	NZD	 	 	 	iPhone	NZ	609284899361434				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	658224610315869				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription v1.0, 41.99	1399466229	20461416	6 Months				41.99	USD	29.4	USD	 	 	 	iPhone	US	476223919860033				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	455313112536508				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, no trial.	1451585186	20449027	7 Days				9.99	USD	7	USD	 	 	 	iPhone	AZ	441339645841131				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	469345201848189				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	644279259898227				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	644279233238419				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	252347752282719				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	259354449141034				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FI	630291508591082				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	245310884395859				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	238348743709099	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	462334632095604				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	525293399312747				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	455313072382982				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	791203496537876				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784188444786833				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	497255922268184				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				789	INR	468.05	INR	 	 	 	iPhone	IN	770210216743466				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	700185943949144				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	490262413508030				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	483271336708001				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	658171893058878				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	ZAR	0	ZAR	 	 	 	iPhone	ZA	469345123919352				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	630279484144515				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	ES	441339698101857				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	441339673097409				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	196356134241941				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321872568019				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IE	574321828086771				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	420369232465653				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	434353360957385				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	224365715681557				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	518204927471513				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, no trial.	1451585186	20449027	7 Days				9.99	USD	7	USD	 	 	 	iPhone	US	483271408933959				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	469345165017374				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	434353370712081				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SGD	0	SGD	 	 	 	iPhone	SG	434309561147240				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EGP	0	EGP	 	 	 	iPhone	EG	210343162799954				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216760072909				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	581303176875493				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	623289479052676				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203354559216601				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	616284499469221				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777252008959288				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	609284946308614				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	700179565675025				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	TRY	0	TRY	 	 	 	iPhone	TR	602293750032942				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-53.99	USD	37.8	USD	 	 	 	iPhone	US	679223968797495		Yes	2019-01-13	1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	BY	672230628114747				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	588330944755927				1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				329	THB	230.3	THB	 	 	 	iPhone	TH	560334974870897				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321950799641				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321903484569				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	FI	602293686612669				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368818467152				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	560342449074529				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month	Free Trial	3 Days		0	USD	0	USD	 	 	 	iPhone	US	504334126324562				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	511289854342633				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	AR	483270119206352				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	511289848519620				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	574321954154531				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	469345205716711				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	LT	462339896632252				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	EE	455313046769100				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	448381823252701				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				30900	COP	21630	COP	 	 	 	iPad	CO	427352897702754				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				29.99	GBP	17.49	GBP	 	 	 	iPhone	GB	420309051551804				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	483271486803072				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months	Free Trial	7 Days		0	SAR	0	SAR	 	 	 	iPhone	SA	203354450996279				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				12.99	CAD	9.09	CAD	 	 	 	iPhone	CA	161315127493242				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	161362787512187				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	784213634631289				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	469338498981130				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days				9.99	USD	7	USD	 	 	 	iPhone	US	777237359824270				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	777187204588118				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	770221803063253				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	672230547005432				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	252347868379910				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	658233586012466				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				9.99	USD	7	USD	 	 	 	iPhone	US	609284701934561				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	637210723303618				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	448381768098931				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SEK	0	SEK	 	 	 	iPhone	SE	630270869604784				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	532256211747311				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	441339713934261				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				2.79	GBP	1.63	GBP	 	 	 	iPhone	GB	560327214032588				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	553184869311440				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	546242715522177				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month	Free Trial	3 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	539168504280716				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189368793520125	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	427353251845452				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	602293764096068				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, no trial	1451591188	20461416	7 Days				9.99	USD	7	USD	 	 	 	iPhone	US	497250508265506				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	791203511348854				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	784213711960254				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IE	700236114497936				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	672230660542485				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	665264761583676				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				759	MXN	531.3	MXN	 	 	 	iPhone	MX	245274007490402				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				10790	HUF	5947	HUF	 	 	 	iPhone	HU	665236981675562				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	245304610528742				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	EE	644279212555463				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	182337890453511				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	630291487345438				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	161362913145688				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	224370220032268				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	560342399256488				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				254.99	HRK	142.79	HRK	 	 	 	iPhone	HR	777202513620409				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	770221840271557				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				55.99	AUD	35.63	AUD	 	 	 	iPhone	AU	511246246765872				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	NOK	0	NOK	 	 	 	iPhone	NO	504334081571371				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	497255900070414				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, no trial.	1451585186	20449027	7 Days				10.49	EUR	5.97	EUR	 	 	 	iPhone	IE	483271407394071				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	161359085513999				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344281509672				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	154344205185704				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	770221785222976				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	700236132871144				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	679224117099530				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	SN	651257007998487				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SGD	0	SGD	 	 	 	iPhone	SG	644279062224303				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	609284996060323				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CHF	0	CHF	 	 	 	iPhone	CH	595328735273043				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	567319268105487				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	553184837703717				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	546247938657507				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	532279726787328				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	AUD	0	AUD	 	 	 	iPhone	AU	504333986737268				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490263770115072				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	490237153611851				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	LK	490233732895916				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				48.99	TRY	29.06	TRY	 	 	 	iPhone	TR	434345366569445				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	DE	266336707089000				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362724663744				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months	Free Trial	7 Days		0	CHF	0	CHF	 	 	 	iPhone	CH	224370199036692				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	686212577477947				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216795771593				1
+2019-02-11	BetterMe: Calm,Sleep,Meditate	1363010081	weekly subscription, 2.99	1435774358	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	630263758097850				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	595321161105365				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SAR	0	SAR	 	 	 	iPhone	SA	588318625742682				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	SEK	0	SEK	 	 	 	iPhone	SE	560342400497574				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	539222605885931				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	476264189148106				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	469338071920384				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	ILS	0	ILS	 	 	 	iPhone	IL	273366844520135				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	259362730584897				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	KW	238333658917342				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217345877696950				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	217338057779453				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	IT	203354490034768				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	154344242355270				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	791203505504736				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	686212562794404				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	672230625322755				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription, 53.99	1429863868	20449027	6 Months				-204.9	BRL	143.43	BRL	 	 	 	iPhone	BR	665276299524636		Yes	2019-02-05	1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CHF	0	CHF	 	 	 	iPhone	CH	651212296842053				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	644279258008465				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	616284374701326	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	HUF	0	HUF	 	 	 	iPhone	HU	588330889781308				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	6-month subscription v2.0, 41.99	1373728235	20449027	6 Months				142.9	BRL	100.03	BRL	 	 	 	iPhone	BR	560298606335274				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	560342373070713				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	525293421125804				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	525293421099148				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	420365175591139				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	ILS	0	ILS	 	 	 	iPhone	IL	266336689218406				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203354613038607				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	182321575268961				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	ES	784213674112822				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	ZAR	0	ZAR	 	 	 	iPhone	ZA	693225512811267				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	PLN	0	PLN	 	 	 	iPhone	PL	693233578303408				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	monthly subscription, v.1.1, 9.99	1412730712	20461416	1 Month				8.99	GBP	5.24	GBP	 	 	 	iPhone	GB	651173855206905				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	Weekly, 9.99usd, 7d trial	1451585401	20449027	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637216033699261				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	EUR	0	EUR	 	 	 	iPhone	ES	637216754076744	Yes			1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	630277859576899				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	ILS	0	ILS	 	 	 	iPhone	IL	616284341991824				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	monthly subscription v2.1.3, 9.99	1391745601	20449027	1 Month				9.99	USD	7	USD	 	 	 	iPhone	US	602257935103393				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	560342443722903				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	539233830554757	Yes			1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	weekly subscription, 2.99	1435774358	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	539213062927198				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	532286851015194				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	6-month subscription 54	1447369566	20461416	6 Months				53.99	USD	37.8	USD	 	 	 	iPhone	US	497218021507741				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	490263798587152				1
+2019-02-11	BetterMe: Yoga for Weightloss	1398851503	weekly subscription, v.1.1.1, 4.99	1417886138	20461416	7 Days				4.99	USD	3.5	USD	 	 	 	iPhone	US	469297441914779				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	CAD	0	CAD	 	 	 	iPhone	CA	441339746109229				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	273366794370742				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	MXN	0	MXN	 	 	 	iPhone	MX	266336759747704				1
+2019-02-10	BetterMe: Calm,Sleep,Meditate	1363010081	BetterMe: Weekly access	1401172093	20449027	7 Days				2.99	USD	2.1	USD	 	 	 	iPhone	US	259353278044310				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	245310886815157				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	245310777399669				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	203354638047297				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	GBP	0	GBP	 	 	 	iPhone	GB	161362785118957				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	665277309710624				1
+2019-02-10	BetterMe: Yoga for Weightloss	1398851503	Weekly 9.99usd, 7d trial	1451591605	20461416	7 Days	Free Trial	7 Days		0	USD	0	USD	 	 	 	iPhone	US	658234922767949				1
