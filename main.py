@@ -12,10 +12,12 @@ def execute_sql_command(connection, sql_command):
     :return:
     """
     c = connection.cursor()
-
-    c.execute(sql_command)
-
-    connection.commit()
+    try:
+        c.execute(sql_command)
+        connection.commit()
+    except Exception as e:
+        print(e)
+        return
 
     row = c.fetchall()
 
@@ -142,11 +144,11 @@ def main():
                                 ) AS total_purchase
                                 """
 
-    # upload_data.txt_to_csv(['itunes_dataset/20190201.txt', 'itunes_dataset/20190202.txt',
-    #                         'itunes_dataset/20190203.txt', 'itunes_dataset/20190204.txt',
-    #                         'itunes_dataset/20190205.txt', 'itunes_dataset/20190206.txt',
-    #                         'itunes_dataset/20190207.txt', 'itunes_dataset/20190208.txt',
-    #                         'itunes_dataset/20190209.txt', 'itunes_dataset/20190210.txt'])
+    upload_data.txt_to_csv(['itunes_dataset/20190201.txt', 'itunes_dataset/20190202.txt',
+                            'itunes_dataset/20190203.txt', 'itunes_dataset/20190204.txt',
+                            'itunes_dataset/20190205.txt', 'itunes_dataset/20190206.txt',
+                            'itunes_dataset/20190207.txt', 'itunes_dataset/20190208.txt',
+                            'itunes_dataset/20190209.txt', 'itunes_dataset/20190210.txt'])
 
     # create/add to tables
     if conn is not None:
@@ -154,16 +156,16 @@ def main():
         upload_data.create_table(conn, sql_create_table)
 
         # add to report table
-        upload_data.add_to_database(conn, 'report', ['itunes_dataset/20190201.csv',
-                                                     'itunes_dataset/20190202.csv',
-                                                     'itunes_dataset/20190203.csv',
-                                                     'itunes_dataset/20190204.csv',
-                                                     'itunes_dataset/20190205.csv',
-                                                     'itunes_dataset/20190206.csv',
-                                                     'itunes_dataset/20190207.csv',
-                                                     'itunes_dataset/20190208.csv',
-                                                     'itunes_dataset/20190209.csv',
-                                                     'itunes_dataset/20190210.csv'])
+        upload_data.add_to_database(conn, ['itunes_dataset/20190201.csv',
+                                           'itunes_dataset/20190202.csv',
+                                           'itunes_dataset/20190203.csv',
+                                           'itunes_dataset/20190204.csv',
+                                           'itunes_dataset/20190205.csv',
+                                           'itunes_dataset/20190206.csv',
+                                           'itunes_dataset/20190207.csv',
+                                           'itunes_dataset/20190208.csv',
+                                           'itunes_dataset/20190209.csv',
+                                           'itunes_dataset/20190210.csv'])
 
         # find the subscription duration by ID
         execute_sql_command(conn, sql_subscription_duration.format(1447369566))

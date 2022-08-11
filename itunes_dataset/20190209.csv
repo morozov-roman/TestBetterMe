@@ -39,10 +39,10 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,CAD,0.0,CAD,0.0, , , ,iPhone,CA,644279151677660,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription v2.0, 41.99",1373728235,20449027,6 Months,,,,157.99,RON,92.94,RON,22.25, , , ,iPhone,RO,490222713911646,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"monthly subscription v2.1.3, 9.99",1391745601,20449027,1 Month,,,,144.99,ZAR,88.25,ZAR,6.48, , , ,iPhone,ZA,665243829315186,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,483269032059039,,Yes,2019-02-08,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,483269032059039,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,476264052789317,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"monthly subscription v2.1.3, 9.99",1391745601,20449027,1 Month,,,,37.99,AED,25.33,AED,6.9, , , ,iPhone,AE,560341608673632,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,-9.99,USD,7.0,USD,7.0, , , ,iPhone,US,455304914011152,,Yes,2019-02-04,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,-9.99,USD,7.0,USD,-7.0, , , ,iPhone,US,455304914011152,,Yes,2019-02-04,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,CAD,0.0,CAD,0.0, , , ,iPhone,CA,448381670888069,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,EUR,0.0,EUR,0.0, , , ,iPhone,DE,238348552840750,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,ILS,0.0,ILS,0.0, , , ,iPhone,IL,686212420808665,,,,1
@@ -82,13 +82,13 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,630291389709256,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,623289330157951,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,623194421623657,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,469336759516837,,Yes,2019-01-04,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,469336759516837,,Yes,2019-01-04,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,616284307522410,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,497255810471709,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,Free Trial,7 Days,,0.0,CLP,0.0,CLP,0.0, , , ,iPhone,CL,602287683374379,,,,1
 2019-02-10,"BetterMe: Calm,Sleep,Meditate",1363010081,"monthly subscription v2.1.3, 9.99",1391745601,20449027,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,469331045574708,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,448380064178713,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,700233947631955,,Yes,2019-02-05,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,700233947631955,,Yes,2019-02-05,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,553184748763999,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,427347985826911,,,,1
 2019-02-10,"BetterMe: Calm,Sleep,Meditate",1363010081,"monthly subscription v2.1.3, 9.99",1391745601,20449027,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,203306852516294,,,,1
@@ -114,11 +114,11 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-10,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,12.99,CAD,9.09,CAD,6.83, , , ,iPhone,CA,217298047264580,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,BS,217342316002877,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,47.99,RON,28.23,RON,6.76, , , ,iPhone,RO,224360804322496,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,189364412627770,,Yes,2019-02-08,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,189364412627770,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,189368585110819,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,CAD,0.0,CAD,0.0, , , ,iPhone,CA,189368513830435,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,56.99,EUR,33.52,EUR,38.01, , , ,iPhone,DE,182318250280140,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-56.99,EUR,33.52,EUR,38.01, , , ,iPhone,DE,182318250280140,,Yes,2019-02-09,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-56.99,EUR,33.52,EUR,-38.01, , , ,iPhone,DE,182318250280140,,Yes,2019-02-09,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, no trial",1451591188,20461416,7 Days,,,,30900.0,COP,21630.0,COP,7.07, , , ,iPhone,CO,686183276390362,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,EGP,0.0,EGP,0.0, , , ,iPhone,EG,679201588390859,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,SEK,0.0,SEK,0.0, , , ,iPhone,SE,770221669595884,,,,1
@@ -131,9 +131,9 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,700203369893547,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,574313672079030,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,GBP,0.0,GBP,0.0, , , ,iPhone,GB,644279029520499,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,GT,497252263141846,,Yes,2019-02-08,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,GT,497252263141846,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,560342243395258,Yes,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"6-month subscription v1.0, 41.99",1399466229,20461416,6 Months,,,,-3299.0,INR,1957.03,INR,27.48, , , ,iPhone,IN,560295984036595,,Yes,2019-02-08,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"6-month subscription v1.0, 41.99",1399466229,20461416,6 Months,,,,-3299.0,INR,1957.03,INR,-27.48, , , ,iPhone,IN,560295984036595,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,686212415629568,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,QAR,0.0,QAR,0.0, , , ,iPhone,QA,497255253699591,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,AED,0.0,AED,0.0, , , ,iPhone,AE,602293519004263,,,,1
@@ -194,7 +194,7 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,567317415652521,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,AED,0.0,AED,0.0, , , ,iPhone,AE,672230426653410,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,665277123828781,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription v2.0, 41.99",1373728235,20449027,6 Months,,,,-12.47,DKK,6.98,DKK,1.06, , , ,iPhone,DK,588293691585609,,Yes,2018-08-17,0
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription v2.0, 41.99",1373728235,20449027,6 Months,,,,-12.47,DKK,6.98,DKK,-1.06, , , ,iPhone,DK,588293691585609,,Yes,2018-08-17,0
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,581303013246468,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription v2.0, 41.99",1373728235,20449027,6 Months,,,,2850.0,RUB,1662.5,RUB,25.22, , , ,iPhone,RU,602249863100307,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,GH,574316990154560,,,,1
@@ -218,7 +218,7 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"monthly subscription v2.1.3, 9.99",1391745601,20449027,1 Month,,,,7.99,GBP,4.66,GBP,6.03, , , ,iPhone,GB,651173855206905,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,RON,0.0,RON,0.0, , , ,iPhone,RO,595328505548422,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,EUR,0.0,EUR,0.0, , , ,iPhone,DE,574290705628488,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,574310216514106,,Yes,2019-02-08,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,574310216514106,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,567318971148778,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,504332503755117,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,GBP,0.0,GBP,0.0, , , ,iPhone,GB,504333834953825,Yes,,,1
@@ -226,7 +226,7 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,490262207918541,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,INR,0.0,INR,0.0, , , ,iPhone,IN,476263771679390,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,217344167080385,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-49.99,GBP,29.16,GBP,37.76, , , ,iPhone,GB,777244831257645,,Yes,2019-01-10,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-49.99,GBP,29.16,GBP,-37.76, , , ,iPhone,GB,777244831257645,,Yes,2019-01-10,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"monthly subscription v2.1.3, 9.99",1391745601,20449027,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,672230047989411,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,616270271149353,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,Free Trial,7 Days,,0.0,GBP,0.0,GBP,0.0, , , ,iPhone,GB,539233538644551,,,,1
@@ -269,12 +269,12 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,224360225457832,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,AL,588330738850913,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,581303069272942,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,574314410005737,,Yes,2019-01-16,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,574314410005737,,Yes,2019-01-16,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,8.99,GBP,5.24,GBP,6.79, , , ,iPhone,GB,567310725249396,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,8.99,GBP,5.24,GBP,6.79, , , ,iPhone,GB,560334838083918,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,525293299988977,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,504330862907377,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,504330862907377,,Yes,2019-02-09,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,504330862907377,,Yes,2019-02-09,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,209.9,BRL,146.93,BRL,39.56, , , ,iPhone,BR,462355850995768,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,EUR,0.0,EUR,0.0, , , ,iPhone,AT,238323719145703,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"monthly subscription v2.1.3, 9.99",1391745601,20449027,1 Month,,,,189.0,MXN,132.3,MXN,6.94, , , ,iPhone,MX,182331368138628,,,,1
@@ -302,9 +302,9 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,595328638504861,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,574321775798290,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,567304968393193,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,567304968393193,,Yes,2019-02-09,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,532283808394956,,Yes,2019-02-08,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,532277549827256,,Yes,2018-12-29,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,567304968393193,,Yes,2019-02-09,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,532283808394956,,Yes,2019-02-08,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,532277549827256,,Yes,2018-12-29,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,RON,0.0,RON,0.0, , , ,iPhone,RO,483248637887521,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"weekly subscription, 2.99",1435774358,20449027,7 Days,,,,2.99,EUR,1.69,EUR,1.92, , , ,iPhone,GR,469344965155663,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,EUR,0.0,EUR,0.0, , , ,iPhone,IT,462357249186590,,,,1
@@ -315,11 +315,11 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,ILS,0.0,ILS,0.0, , , ,iPhone,IL,224370002280650,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,217345765145497,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,693233489634366,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-80.99,AUD,51.54,AUD,36.57, , , ,iPhone,AU,672228826569029,,Yes,2019-02-08,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-80.99,AUD,51.54,AUD,-36.57, , , ,iPhone,AU,672228826569029,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,665277122991959,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,623288737946667,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,CHF,0.0,CHF,0.0, , , ,iPhone,CH,504292939221920,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,455300016095038,,Yes,2018-12-15,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,455300016095038,,Yes,2018-12-15,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,273366684434083,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,224370090634097,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,TRY,0.0,TRY,0.0, , , ,iPhone,TR,224369909673681,,,,1
@@ -397,7 +397,7 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,56.99,EUR,33.24,EUR,37.69, , , ,iPhone,FR,791202219921675,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,784167625611722,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,777251810981774,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-80.99,AUD,51.54,AUD,36.57, , , ,iPhone,AU,777243934854816,,Yes,2019-01-02,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-80.99,AUD,51.54,AUD,-36.57, , , ,iPhone,AU,777243934854816,,Yes,2019-01-02,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,693233470862011,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,VND,0.0,VND,0.0, , , ,iPhone,VN,679229412226374,Yes,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,AED,0.0,AED,0.0, , , ,iPhone,AE,581302941062461,,,,1
@@ -459,15 +459,15 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,14.99,AUD,9.54,AUD,6.77, , , ,iPhone,AU,161353984943279,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription v2.0, 41.99",1373728235,20449027,6 Months,,,,41.99,USD,29.4,USD,29.4, , , ,iPhone,US,154306175571662,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,770220356201088,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,686211096328438,,Yes,2019-02-08,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,686211096328438,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,665277044766504,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,476261926909666,,Yes,2019-02-06,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,476261926909666,,Yes,2019-02-06,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,GBP,0.0,GBP,0.0, , , ,iPhone,GB,469337245686451,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,329.99,TRY,195.76,TRY,37.15, , , ,iPhone,TR,609282880757616,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,448381588819530,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,BY,238348553639891,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,434353167490804,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription v2.0, 41.99",1373728235,20449027,6 Months,,,,-41.99,USD,29.4,USD,29.4, , , ,iPhone,US,238300658519961,,Yes,2019-02-08,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription v2.0, 41.99",1373728235,20449027,6 Months,,,,-41.99,USD,29.4,USD,-29.4, , , ,iPhone,US,238300658519961,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,224360698693686,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,AR,532286667028223,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"monthly subscription v2.1.3, 9.99",1391745601,20449027,1 Month,,,,35.9,BRL,25.13,BRL,6.77, , , ,iPhone,BR,203353652968202,,,,1
@@ -489,7 +489,7 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,219.9,MYR,153.93,MYR,37.75, , , ,iPhone,MY,630289748298296,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,9.99,USD,7.0,USD,7.0, , , ,iPhone,US,623208259638337,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,161362726049800,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"6-month subscription v1.0, 41.99",1399466229,20461416,6 Months,,,,-37.99,GBP,22.16,GBP,28.7, , , ,iPhone,GB,490251119665610,,Yes,2018-12-17,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"6-month subscription v1.0, 41.99",1399466229,20461416,6 Months,,,,-37.99,GBP,22.16,GBP,-28.7, , , ,iPhone,GB,490251119665610,,Yes,2018-12-17,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,UA,490243707981141,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,665277051442775,Yes,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,12.99,CAD,9.09,CAD,6.83, , , ,iPhone,CA,469303489564702,,,,1
@@ -546,14 +546,14 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,MXN,0.0,MXN,0.0, , , ,iPhone,MX,665276780325285,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,630291389218451,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,602293652243838,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,623282274477767,,Yes,2019-02-09,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,623282274477767,,Yes,2019-02-09,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,623282274477767,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,259362536357647,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,CAD,0.0,CAD,0.0, , , ,iPhone,CA,483263774684966,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,455311567376311,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,637216641589383,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,252347714238678,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,539226149547752,,Yes,2019-02-08,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,539226149547752,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,EUR,0.0,EUR,0.0, , , ,iPhone,DE,469344975350078,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,CAD,0.0,CAD,0.0, , , ,iPhone,CA,532286631270620,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,616284255903759,,,,1
@@ -602,7 +602,7 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,581301364262152,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,CR,567318998807206,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,497255798738680,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,-9.99,USD,7.0,USD,7.0, , , ,iPhone,US,266335247623209,,Yes,2019-02-07,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,-9.99,USD,7.0,USD,-7.0, , , ,iPhone,US,266335247623209,,Yes,2019-02-07,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,259362529510345,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,GBP,0.0,GBP,0.0, , , ,iPhone,GB,189368566827953,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription v2.0, 41.99",1373728235,20449027,6 Months,,,,29.99,GBP,17.49,GBP,22.65, , , ,iPhone,GB,189318134624033,,,,1
@@ -656,7 +656,7 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,259357240773948,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"monthly subscription, v.1.1, 9.99",1412730712,20461416,1 Month,,,,10.49,EUR,6.17,EUR,7.0, , , ,iPhone,DE,217319767674837,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,EUR,0.0,EUR,0.0, , , ,iPhone,FR,777231074642675,,,,1
-2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,658233429862927,,Yes,2019-02-08,1
+2019-02-09,BetterMe: Yoga for Weightloss,1398851503,6-month subscription 54,1447369566,20461416,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,658233429862927,,Yes,2019-02-08,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,630291344106685,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,602293518336064,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,53.99,USD,37.8,USD,37.8, , , ,iPhone,US,574320234493574,,,,1
@@ -681,7 +681,7 @@ Event Date,App Name,App Apple ID,Subscription Name,Subscription Apple ID,Subscri
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,RUB,0.0,RUB,0.0, , , ,iPhone,RU,427353087573561,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,ZAR,0.0,ZAR,0.0, , , ,iPhone,ZA,259362478942093,Yes,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"weekly subscription, v.1.1.1, 4.99",1417886138,20461416,7 Days,,,,4.49,GBP,2.62,GBP,3.39, , , ,iPhone,GB,161348524683131,,,,1
-2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,37.8, , , ,iPhone,US,154333565037745,,Yes,2019-02-08,1
+2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"6-month subscription, 53.99",1429863868,20449027,6 Months,,,,-53.99,USD,37.8,USD,-37.8, , , ,iPhone,US,154333565037745,,Yes,2019-02-08,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,BGN,0.0,BGN,0.0, , , ,iPhone,BG,784213456007109,,,,1
 2019-02-09,BetterMe: Yoga for Weightloss,1398851503,"Weekly 9.99usd, 7d trial",1451591605,20461416,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,770221680806531,,,,1
 2019-02-09,"BetterMe: Calm,Sleep,Meditate",1363010081,"Weekly, 9.99usd, 7d trial",1451585401,20449027,7 Days,Free Trial,7 Days,,0.0,USD,0.0,USD,0.0, , , ,iPhone,US,679229483336385,,,,1
