@@ -88,7 +88,7 @@ def add_to_database(connection, list_of_paths):
             with open(path, 'r') as f:
                 reader = csv.reader(f)
                 columns = next(reader)
-                query = 'INSERT OR IGNORE INTO {0} ({1}) VALUES ({2})'
+                query = 'INSERT OR FAIL INTO {0} ({1}) VALUES ({2})'
                 query = query.format('report', ','.join(['hash_row',
                                                          'event_date',
                                                          'app_name',
@@ -123,6 +123,7 @@ def add_to_database(connection, list_of_paths):
                         cursor.execute(query, data)
                         connection.commit()
                     except Exception as e:
+                        print(data)
                         print(e)
 
         except Exception as e:
